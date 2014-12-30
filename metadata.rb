@@ -1,3 +1,4 @@
+name             "geoip"
 maintainer       "Robby Grossman"
 maintainer_email "robby@freerobby.com"
 license          "MIT"
